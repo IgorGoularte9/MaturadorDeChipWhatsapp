@@ -1,0 +1,300 @@
+Olá, tudo bem?
+Bom dia!
+Boa tarde!
+Boa noite!
+E aí, como vai?
+Tudo tranquilo?
+Como tem passado?
+Há quanto tempo!
+Que bom te ver!
+Como está a família?
+E aí, beleza?
+Tudo joia?
+Como tem sido seu dia?
+E aí, firmeza?
+Oi, sumido(a)!
+Tudo certo por aí?
+Como vai a vida?
+E aí, novidades?
+Tudo em cima?
+Como estão as coisas?
+Até logo!
+Tchau!
+Até mais!
+Falou, valeu!
+Boa noite, durma bem!
+Até amanhã!
+Cuide-se!
+Fique bem!
+Até breve!
+Abraços!
+Beijos!
+Até a próxima!
+Nos falamos depois!
+Boa sorte!
+Tenha um ótimo dia!
+A gente se vê!
+Até qualquer hora!
+Tchauzinho!
+Fui!
+Partiu!
+Obrigado(a)!
+Valeu!
+Muito obrigado(a)!
+Agradeço de coração!
+Obrigado(a) pela ajuda!
+Valeu mesmo!
+Fico muito agradecido(a)!
+Obrigado(a) por tudo!
+Que gentileza, obrigado(a)!
+Muito obrigado(a) pelo apoio!
+Obrigado(a) pela atenção!
+Agradeço imensamente!
+Obrigado(a) pela paciência!
+Valeu pela força!
+Obrigado(a) pelo carinho!
+Fico grato(a)!
+Obrigado(a) pela compreensão!
+Muito obrigado(a) pelo presente!
+Agradeço pela oportunidade!
+Obrigado(a) por estar sempre por perto!
+O que você está fazendo?
+Já almoçou?
+Como foi seu dia?
+Vai sair hoje?
+Onde você está?
+Que horas são?
+Qual é o plano para hoje?
+Já terminou o trabalho?
+Como está o tempo aí?
+Vamos sair mais tarde?
+O que você acha disso?
+Já assistiu aquele filme?
+Qual é o seu plano para o fim de semana?
+Já decidiu o que vai fazer?
+Precisa de ajuda?
+Como foi a reunião?
+O que você vai fazer hoje?
+Já resolveu aquele problema?
+Como está o trânsito aí?
+O que você está planejando?
+Tudo bem, e você?
+Estou bem, obrigado(a)!
+Aqui tudo tranquilo!
+Estou ocupado(a), mas depois a gente conversa.
+Estou indo para casa.
+Estou no trabalho.
+Estou estudando.
+Estou descansando.
+Estou pensando na vida.
+Estou sem fazer nada.
+Estou esperando você.
+Estou chegando agora.
+Estou indo para o trabalho.
+Estou no caminho.
+Estou com fome.
+Estou com sono.
+Estou com pressa.
+Estou atrasado(a).
+Estou quase terminando.
+Estou livre agora.
+Que legal!
+Que chato!
+Que bom!
+Que pena!
+Que susto!
+Que coisa!
+Que loucura!
+Que incrível!
+Que maravilha!
+Que beleza!
+Que droga!
+Que azar!
+Que sorte!
+Que alívio!
+Que confusão!
+Que preguiça!
+Que calor!
+Que frio!
+Que medo!
+Que vergonha!
+Eu acho que sim.
+Eu acho que não.
+Na minha opinião...
+Eu concordo.
+Eu discordo.
+Acho que vai dar certo.
+Acho que não vai funcionar.
+Eu prefiro assim.
+Eu não gosto disso.
+Eu adoro isso!
+Eu não sei.
+Eu acho melhor esperar.
+Eu acho que é uma boa ideia.
+Eu não tenho certeza.
+Eu acho que vale a pena tentar.
+Eu acho que não é justo.
+Eu acho que você está certo(a).
+Eu acho que você está errado(a).
+Eu acho que podemos tentar.
+Eu acho que não vai dar tempo.
+Vamos sair hoje?
+Vamos comer algo?
+Vamos ao cinema?
+Vamos dar uma volta?
+Vamos viajar?
+Vamos fazer algo diferente?
+Vamos encontrar os amigos?
+Vamos para a praia?
+Vamos para o shopping?
+Vamos para uma festa?
+Vamos jogar algo?
+Vamos assistir a um filme?
+Vamos tomar um café?
+Vamos conversar?
+Vamos resolver isso?
+Vamos tentar de novo?
+Vamos planejar algo?
+Vamos comemorar?
+Vamos descansar?
+Vamos aproveitar o dia!
+Você consegue!
+Não desista!
+Vai dar tudo certo!
+Confie em você!
+Você é capaz!
+Continue assim!
+Você está indo bem!
+Não se preocupe!
+Tudo vai melhorar!
+Mantenha o foco!
+Você é incrível!
+Acredite no seu potencial!
+Você vai superar isso!
+Não tenha medo!
+Você é mais forte do que pensa!
+Siga em frente!
+Você está no caminho certo!
+Não olhe para trás!
+Você merece o melhor!
+O sucesso está perto!
+Estou com fome!
+Vamos pedir uma pizza?
+Já tomou café hoje?
+O que vamos comer?
+Estou com vontade de um doce.
+Vamos fazer um churrasco?
+Já almoçou?
+Vamos tomar um suco?
+Estou com sede.
+Vamos comer uma salada?
+Estou com vontade de um lanche.
+Vamos cozinhar algo?
+Já experimentou essa comida?
+Estou cheio(a)!
+Vamos pedir comida japonesa?
+Estou com vontade de um café.
+Vamos fazer um bolo?
+Estou com vontade de um sorvete.
+Vamos tomar um chá?
+Estou com vontade de um refrigerante.
+Estou no trabalho.
+Estou estudando.
+Preciso terminar isso.
+Estou ocupado(a).
+Tenho uma reunião.
+Preciso entregar um relatório.
+Estou fazendo hora extra.
+Preciso focar no projeto.
+Estou cansado(a) de trabalhar.
+Preciso estudar para a prova.
+Estou fazendo um curso.
+Preciso terminar o TCC.
+Estou aprendendo algo novo.
+Preciso enviar um e-mail.
+Estou resolvendo problemas.
+Preciso organizar minha agenda.
+Estou fazendo uma apresentação.
+Preciso revisar o material.
+Estou participando de uma palestra.
+Preciso finalizar o relatório.
+Vamos viajar?
+Para onde vamos?
+Já fez as malas?
+Vamos para a praia?
+Vamos para o campo?
+Vamos conhecer um novo lugar?
+Já comprou as passagens?
+Vamos fazer um mochilão?
+Vamos acampar?
+Vamos visitar a família?
+Vamos tirar férias?
+Vamos fazer um roteiro turístico?
+Vamos relaxar?
+Vamos curtir a natureza?
+Vamos fazer um passeio de bike?
+Vamos visitar um museu?
+Vamos conhecer uma nova cidade?
+Vamos tirar muitas fotos!
+Vamos aproveitar o tempo livre!
+Vamos fazer uma viagem inesquecível!
+Parabéns!
+Feliz aniversário!
+Feliz Natal!
+Feliz Ano Novo!
+Boas festas!
+Feliz Páscoa!
+Feliz Dia dos Namorados!
+Feliz Dia das Mães!
+Feliz Dia dos Pais!
+Feliz Dia dos Professores!
+Parabéns pelo sucesso!
+Parabéns pela conquista!
+Parabéns pelo trabalho!
+Parabéns pela formatura!
+Parabéns pelo casamento!
+Parabéns pelo bebê!
+Parabéns pela promoção!
+Parabéns pela nova casa!
+Parabéns pela viagem!
+Parabéns pelo projeto!
+A vida é feita de escolhas.
+Tudo passa.
+A paciência é uma virtude.
+Cada dia é uma nova oportunidade.
+O importante é não desistir.
+A vida é curta, aproveite!
+O aprendizado nunca termina.
+A felicidade está nas pequenas coisas.
+O tempo cura tudo.
+A persistência leva ao sucesso.
+A gratidão transforma vidas.
+A simplicidade é a chave.
+A vida é uma jornada.
+O amor move o mundo.
+A esperança nunca morre.
+A mudança começa em você.
+A vida é feita de momentos.
+O sorriso é contagiante.
+A gentileza gera gentileza.
+A vida é bela!
+Ri muito disso!
+Que piada sem graça!
+Isso foi engraçado!
+Ri até chorar!
+Que história engraçada!
+Ri demais agora!
+Que meme engraçado!
+Ri até doer a barriga!
+Que situação engraçada!
+Ri sem parar!
+Que vídeo engraçado!
+Ri até não aguentar mais!
+Que piada boa!
+Ri até ficar sem ar!
+Que situação hilária!
+Ri até cair no chão!
+Que meme sem noção!
+Ri até ficar rouco(a)!
+Que história sem pé nem cabeça!
+Ri até o dia ficar melhor!
