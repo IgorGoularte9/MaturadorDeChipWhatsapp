@@ -1,8 +1,8 @@
-# Maturador de Chip para WhatsApp 🔥
+# Maturador de Chip para WhatsApp 
 
 Este é um script de automação em TypeScript projetado para "aquecer" múltiplos chips (contas) de WhatsApp, fazendo com que eles interajam entre si para simular atividade humana e reduzir o risco de banimento por inatividade ou automação em massa.
 
-## Funcionalidades Principais ✨
+## Funcionalidades Principais 
 
 * **Gerenciamento de Múltiplos Chips:** Adicione, remova e liste várias contas de WhatsApp para aquecer simultaneamente.
 * **Menu Interativo:** Controle o script facilmente através de um menu no terminal.
